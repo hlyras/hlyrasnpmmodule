@@ -1,0 +1,20 @@
+{
+  "name": "hlyrasnpmmodule",
+  "version": "1.0.0",
+  "description": "mymodule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlyras/hlyrasnpmmodule.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlyras/hlyrasnpmmodule/issues"
+  },
+  "homepage": "https://github.com/hlyras/hlyrasnpmmodule#readme"
+}
